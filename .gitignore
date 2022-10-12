@@ -1,0 +1,4 @@
+payment/
+file_logs/
+data_base/test_db.py
+chromedriver/
